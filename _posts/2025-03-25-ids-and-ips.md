@@ -15,7 +15,7 @@ Cyber threats are constantly evolving, making it essential for organizations to 
 ### Intrusion Detection System (IDS)
 - IDS - is a security tool that monitors network traffic or system activity for suspicious behavior. Its primary role is to detect potential threats and generate alerts for security teams but not to take direct action against them.
 
-#### How IDS Works
+***How IDS Works***
 
 - Uses predefined rules, behavior analysis, or signature-based detection to identify threats.
 
@@ -23,7 +23,7 @@ Cyber threats are constantly evolving, making it essential for organizations to 
 
 - Logs suspicious activities for forensic analysis.
 
-#### Limitations of IDS
+***Limitations of IDS***
 
 - Cannot block attacks, only detect and alert.
 
@@ -35,13 +35,13 @@ Cyber threats are constantly evolving, making it essential for organizations to 
 ### Intrusion Prevention System (IPS)
 - IPS - is a security tool that not only detects threats but also actively prevents them from causing harm. It sits inline with network traffic, inspecting and blocking malicious packets before they reach their target.
 
-#### Types of IPS
+***Types of IPS***
 
 - Network-based IPS (NIPS) – Monitors and controls network traffic in real time, blocking threats at the network level.
 
 - Host-based IPS (HIPS) – Protects individual systems by preventing unauthorized changes, malware execution, or exploit attempts.
 
-#### How IPS Works
+***How IPS Works***
 
 - Uses signature-based, anomaly-based, or heuristic detection to identify threats.
 
@@ -49,7 +49,7 @@ Cyber threats are constantly evolving, making it essential for organizations to 
 
 - Provides real-time protection against cyber threats.
 
-#### Limitations of IPS
+***Limitations of IPS***
 
 - If not properly configured, it can block legitimate traffic (false positives).
 - Requires continuous updates to recognize new threats.
