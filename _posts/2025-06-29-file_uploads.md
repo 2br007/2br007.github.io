@@ -2,8 +2,8 @@
 layout: post
 title: "File upload vulnerabilities"
 date: 2025-06-29 00:00:00 +0100
-categories: [hacking, linux, ]
-tags: [file upload vulnerabilities, labs, web]
+categories: [portswigger, hacking]
+tags: [file upload vulnerabilities, labs, theory, web]
 ---
 
 ![file_upl](pics/file_upl.png)

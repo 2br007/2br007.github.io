@@ -2,8 +2,8 @@
 layout: post
 title: "Directory Path Traversal"
 date: 2025-06-27 00:00:00 +0100
-categories: [portswigger, hacking, theory]
-tags: [labs, directory traversal, path traversal, web]
+categories: [portswigger, hacking]
+tags: [labs, theory, directory traversal, path traversal, web]
 ---
 
 ![picname](pics/path_trav.png)
